@@ -16,7 +16,6 @@ flutter仿抖音练习项目，主要实现了上下滑动看视频，左右滑�
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png" alt="" width="200"><img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/2.png" alt="" width="200">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/3.png" alt="" width="200">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/4.png" alt="" width="200">
-<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/5.png" alt="" width="200">
 
 ## 依赖
   ### 解决pageview和tabview嵌套滑动问题
