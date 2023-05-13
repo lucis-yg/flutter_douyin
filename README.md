@@ -1,7 +1,11 @@
 # flutter_douyin
 
 A new Flutter project.
-![Image description](https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png)
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png" alt="" width="300">
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/2.png" alt="" width="300">
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/3.png" alt="" width="300">
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/4.png" alt="" width="300">
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/5.png" alt="" width="300">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
