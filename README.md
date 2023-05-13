@@ -13,8 +13,7 @@ flutter仿抖音练习项目，主要实现了上下滑动看视频，左右滑�
 - 评论输入，支持@人和字体表情
 
 ## 截图
-<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png" alt="" width="200">
-<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/2.png" alt="" width="200">
+<img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png" alt="" width="200"><img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/2.png" alt="" width="200">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/3.png" alt="" width="200">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/4.png" alt="" width="200">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/5.png" alt="" width="200">
