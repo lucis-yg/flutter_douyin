@@ -1,7 +1,7 @@
 # flutter_douyin
 
 A new Flutter project.
-
+![Image description](https://raw.githubusercontent.com/lucis-yg/images/main/dy/ARC2%5D%40O9RPZQ)%25RS%406RSH1G.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
