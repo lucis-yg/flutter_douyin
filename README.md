@@ -1,6 +1,6 @@
 # flutter_douyin
 
-A new Flutter project.
+flutter仿抖音
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/1.png" alt="" width="300">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/2.png" alt="" width="300">
 <img src="https://raw.githubusercontent.com/lucis-yg/images/main/dy/3.png" alt="" width="300">
